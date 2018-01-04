@@ -12,7 +12,12 @@ Please, use this repo for following things:
 
 ## Proposal requirements
 
-Bear in mind, proposals need to fulfil the following requirements:
+Bear in mind, proposals need to fulfil the following requirement: it should be doable in 1 or 2 livestreams max (~4h).
 
-1. Proposal should be doable in 1 or 2 livestreams max (~4h)
-2. Proposal should be javascript-related
+## Example proposals
+
+Here are some example proposals to get you started:
+
+1. Build an app that does X and Y
+2. Build an app that uses new shiny library Z
+3. Review this bit of new cool tech
