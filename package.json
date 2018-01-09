@@ -1,0 +1,24 @@
+{
+  "name": "proposals",
+  "version": "1.0.0",
+  "description": "Place for proposals to build things during [BxJS livestreams](http://twitch.tv/yamalight).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node topics.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildingXwithJS/proposals.git"
+  },
+  "keywords": [],
+  "author": "Tim Ermilov <yamalight@gmail.com> (http://codezen.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BuildingXwithJS/proposals/issues"
+  },
+  "homepage": "https://github.com/BuildingXwithJS/proposals#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "github": "^13.1.0"
+  }
+}
